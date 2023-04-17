@@ -1,39 +1,40 @@
 body {
-    color: blue;
-    font-family: 'Courier New', Courier, monospace;
-    /* your styles here */
-  }
-  
-  h1, #designed-by {
-    text-align: center;
-    /* your styles here */
-  }
-  
-  .style1 {
-    background-color: #9B9A9A;
-  }
-  
-  .style2 {
-    background-color: #9B9A9A;
-  }
-  
-  .style3 {
-    background-color: #9B9A9A;
-  }
-  
-  .style4 {
-    background-color: #9B9A9A;
-  }
-  
-  .style5 {
-    background-color: #9B9A9A;
-  }
-  
-  .style6 {
-    background-color: #9B9A9A;
-  }
-  
-  /* SETTING THE COLOR OF THE BOX TEXT */
-  .tiles .box-wrapper > a {
-    color: white;
-  }
+  color: blue;
+  font-family: "Courier New", Courier, monospace;
+  /* your styles here */
+}
+
+h1,
+#designed-by {
+  text-align: center;
+  /* your styles here */
+}
+
+.style1 {
+  background-color: #00b4d8;
+}
+
+.style2 {
+  background-color: #0077b6;
+}
+
+.style3 {
+  background-color: #03045e;
+}
+
+.style4 {
+  background-color: #00b4d8;
+}
+
+.style5 {
+  background-color: #0077b6;
+}
+
+.style6 {
+  background-color: #03045e;
+}
+
+/* SETTING THE COLOR OF THE BOX TEXT */
+.tiles .box-wrapper > a {
+  color: white;
+}
